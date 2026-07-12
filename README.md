@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=UxHarshit&style=flat&color=18ff18)
 
 ### 👨‍💻 Arpit Katheria  
-*Crafting code with precision │ Breaking it with intent*
+*Compiling code │ Rendering creativity*
 </div>
 
 ---
